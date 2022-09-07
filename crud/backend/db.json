@@ -3,12 +3,7 @@
     {
       "id": 1,
       "name": "Caneta Bic Preta",
-      "price": 5.89
-    },
-    {
-      "id": 2,
-      "name": "Macbook Pro 9",
-      "price": 51000.89
+      "price": "1.70"
     },
     {
       "id": 3,
@@ -16,14 +11,9 @@
       "price": 1000005.89
     },
     {
-      "name": "Carro",
+      "name": " Agora Carro Verde",
       "price": "55500.00",
       "id": 4
-    },
-    {
-      "name": "asd",
-      "price": "9.99",
-      "id": 5
     }
   ]
 }
